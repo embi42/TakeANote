@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/TakeANote
+/TakeANote/bin
+/TakeANote/obj
+/TakeANote.sln.DotSettings.user
+/TakeANote/TakeANote.csproj.user
